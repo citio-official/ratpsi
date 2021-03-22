@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.44152, 48.771637]}, "properties": {"ALARME": "ABSENCE CONNEXION CEC", "NUMPARC": 5802, "TYPE": "TECHNIQUE", "DUREE": "24:00:00", "HORODATAGE": "2019-08-22 02:46:06", "STATUT": "start", "marker-color": "#000000"}}]}
