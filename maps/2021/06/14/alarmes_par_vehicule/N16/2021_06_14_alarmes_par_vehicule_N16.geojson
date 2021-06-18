@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.369541, 48.853485]}, "properties": {"alarme": "VEHICULE DELOCALISE", "numparc": 651, "type": "EXPLOITATION", "duree": "24:00:00", "horodatage": "2021-06-15 02:23:01", "statut": "start", "marker-color": "#000000"}}]}
