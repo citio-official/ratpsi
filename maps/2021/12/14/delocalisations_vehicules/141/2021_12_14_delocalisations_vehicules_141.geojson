@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": []}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.35794, 48.621693]}, "properties": {"etat de la localisation": "Hors service", "numparc": 8960, "duree": "", "horodatage": "2021-12-14 14:37:40", "marker-color": "#707070"}}]}
