@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": []}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.190042, 48.903053]}, "properties": {"etat de la localisation": "Mission inconnue", "numparc": 5765, "duree": "", "horodatage": "2022-05-06 07:27:30", "marker-color": "#FF9F56"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.190042, 48.903053]}, "properties": {"etat de la localisation": "Hors service", "numparc": 5765, "duree": "", "horodatage": "2022-05-06 07:27:52", "marker-color": "#707070"}}]}
