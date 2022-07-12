@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": []}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.44257, 48.772736]}, "properties": {"etat de la localisation": "Delocalise", "numparc": 2832, "duree": "00:05:47", "horodatage": "2022-07-08 04:56:28", "marker-color": "#FF565E"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.443218, 48.772556]}, "properties": {"etat de la localisation": "Hors service", "numparc": 2832, "duree": "", "horodatage": "2022-07-08 17:41:22", "marker-color": "#707070"}}]}
