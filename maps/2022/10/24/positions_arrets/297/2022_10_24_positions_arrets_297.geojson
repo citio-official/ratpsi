@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": []}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.29781, 48.722366]}, "properties": {"numparc": 4845, "etat de la localisation": "autre", "ID BDGEO": "111", "horodatage": "2022-10-24 10:14:43", "distance (en metres)": 102.66, "station": "DEPOT MASSY DEPART", "marker-color": "#818181"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.297873, 48.721444]}, "properties": {"station": "DEPOT MASSY DEPART", "ID BDGEO": "111", "marker-color": "#56B3FF"}}]}
