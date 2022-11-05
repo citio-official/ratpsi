@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": []}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.312971, 48.906536]}, "properties": {"etat de la localisation": "Delocalise", "numparc": 7097, "duree": "00:09:00", "horodatage": "2022-11-01 09:49:08", "marker-color": "#FF565E"}}]}
