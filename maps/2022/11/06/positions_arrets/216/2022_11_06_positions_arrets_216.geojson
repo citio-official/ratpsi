@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": []}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.296793, 48.721359]}, "properties": {"numparc": 7072, "etat de la localisation": "autre", "ID BDGEO": "52", "horodatage": "2022-11-06 07:49:06", "distance (en metres)": 5033.25, "station": "ROBERT SCHUMAN", "marker-color": "#818181"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.354366, 48.745996]}, "properties": {"station": "ROBERT SCHUMAN", "ID BDGEO": "52", "marker-color": "#56B3FF"}}]}
