@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.728825, 48.732212]}, "properties": {"alarme": "DEFAUT LIAISON DATA SAEIV / AIGLE", "numparc": 663, "type": "TECHNIQUE", "duree": "24:00:00", "horodatage": "2021-07-02 10:16:40", "statut": "start", "marker-color": "#000000"}}]}
